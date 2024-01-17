@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Siszarp\C-s\C#2Dziedziczenie1\bin\Debug\C#2Dziedziczenie1.exe.config
+C:\Users\student\Desktop\Siszarp\C-s\C#2Dziedziczenie1\bin\Debug\C#2Dziedziczenie1.exe
+C:\Users\student\Desktop\Siszarp\C-s\C#2Dziedziczenie1\bin\Debug\C#2Dziedziczenie1.pdb
+C:\Users\student\Desktop\Siszarp\C-s\C#2Dziedziczenie1\obj\Debug\C#2Dziedziczenie1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Siszarp\C-s\C#2Dziedziczenie1\obj\Debug\C#2Dziedziczenie1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Siszarp\C-s\C#2Dziedziczenie1\obj\Debug\C#2Dziedziczenie1.exe
+C:\Users\student\Desktop\Siszarp\C-s\C#2Dziedziczenie1\obj\Debug\C#2Dziedziczenie1.pdb
